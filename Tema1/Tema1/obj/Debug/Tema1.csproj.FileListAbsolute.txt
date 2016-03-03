@@ -1,0 +1,6 @@
+E:\work\facultate\calculNumeric\Tema1\Tema1\bin\Debug\Tema1.exe.config
+E:\work\facultate\calculNumeric\Tema1\Tema1\bin\Debug\Tema1.exe
+E:\work\facultate\calculNumeric\Tema1\Tema1\bin\Debug\Tema1.pdb
+E:\work\facultate\calculNumeric\Tema1\Tema1\obj\Debug\Tema1.csprojResolveAssemblyReference.cache
+E:\work\facultate\calculNumeric\Tema1\Tema1\obj\Debug\Tema1.exe
+E:\work\facultate\calculNumeric\Tema1\Tema1\obj\Debug\Tema1.pdb
